@@ -1,0 +1,2 @@
+# [Archive] Simple project for [MT8816 8 x 16 Analog Switch Array](https://www.microsemi.com/document-portal/doc_view/127038-mt8816-datasheet-sept11)
+**Code has been written for a task at university in the second year of study.**
